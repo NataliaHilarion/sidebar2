@@ -4,6 +4,7 @@ Proyecto en JS para crear un Sidebar interactivo con efecto toggle, que permite 
 
 ## Visualizacion
 
-<img src="./resources/Sidebar.gif" alt="GIF >
+<img src="./resources/Sidebar.gif" alt="GIF de una captura de pantalla en Windows">
 
-![captura](img/nombre_de_la_imagen.jpg)
+
+![captura](./resources/imagenReadme.png)
